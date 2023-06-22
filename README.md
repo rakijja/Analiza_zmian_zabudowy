@@ -3,7 +3,7 @@ Ten projekt przedstawia część praktyczną wykonaną na potrzeby pracy magiste
 ## "Wyznaczenie przedziału czasowego powstania budynków na podstawie ortofotomapy z użyciem narzędzi głębokiego uczenia"
 ### STRESZCZENIE
 W niniejszej pracy przedstawiono metodę pozyskania danych wektorowych,
-zawierających informacje o kształcie i położeniu budynków, na podstawie ortofotomapy, \n
+zawierających informacje o kształcie i położeniu budynków, na podstawie ortofotomapy,
 wykorzystując do tego narzędzia głębokiego uczenia. ArcGIS, po skonfigurowaniu środowiska
 systemowego i instalacji niezbędnych rozszerzeń, umożliwia przeprowadzanie analiz metodami
 głębokiego uczenia. Obiekty wyznaczano poprzez użycie narzędzia geoprzetwarzania Detect
